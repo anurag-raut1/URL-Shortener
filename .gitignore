@@ -1,0 +1,9 @@
+# Node.js backend
+backend/node_modules/
+backend/.env
+backend/.DS_Store
+
+# Frontend (React/Vue/Angular)
+frontend/node_modules/
+frontend/.env
+frontend/.DS_Store
